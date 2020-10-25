@@ -10,12 +10,19 @@
 Specifications:
  
 Dell Inspiron 15 2-in-1 / 7573 / Bios 1.17 / 2018 Version
+
 8th Generation Intel i7-8550U @ 1.80Ghz (Kabylake R)
+
 Intel UHD 620 - UltraHighDef - 3840x2160 - 4K Display - Touch
+
 32GB 2400Mhz DDR4 ram - 2x16gb Chips
+
 Samsung PM871b M.2 SSD 512GB - (Stock)
+
 Wifi - Dell DW1830 - (Swapped Intel 7265)
+
 Bluetooth - BCM2045A0
+
 Nvidia MX130 (Disabled)
 
 
